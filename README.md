@@ -68,7 +68,7 @@ Dashboard Interaction in <a href="https://github.com/abhinavm0010/Manufacturing-
 
 Dashboard Interaction in <a href="https://github.com/abhinavm0010/Manufacturing-Analysis-Project-Tableau-Power-BI-SQL-Excel/blob/main/Screenshot%202025-02-04%20002505.png">Power BI 2</a>
 
-## 🔄 Project Process
+## 🔄 Project Process: Manufacturing Analysis
 This data analysis project follows a structured process to ensure accurate insights and effective visualization.
 
 ### Data Collection & Understanding
@@ -101,3 +101,13 @@ This data analysis project follows a structured process to ensure accurate insig
 - Ensure reusability and scalability for future analysis.
   
 📌 Outcome: A well-structured analysis that transforms raw data into actionable insights, enhancing business decision-making. 🚀📊
+
+## Dashboards
+
+Excel
+![Screenshot 2025-02-04 002407](https://github.com/user-attachments/assets/a0054234-e1a1-453c-973b-abacccba345e)
+
+Power BI
+![Screenshot 2025-02-04 002445](https://github.com/user-attachments/assets/3b4fc6c7-b320-4c4f-8d86-5a5d56ae7294)
+![Screenshot 2025-02-04 002505](https://github.com/user-attachments/assets/8f190e42-315b-4570-b797-f78a30e1b288)
+
