@@ -67,3 +67,37 @@ Dashboard Interaction in <a href="https://github.com/abhinavm0010/Manufacturing-
 Dashboard Interaction in <a href="https://github.com/abhinavm0010/Manufacturing-Analysis-Project-Tableau-Power-BI-SQL-Excel/blob/main/Screenshot%202025-02-04%20002445.png">Power BI 1</a>
 
 Dashboard Interaction in <a href="https://github.com/abhinavm0010/Manufacturing-Analysis-Project-Tableau-Power-BI-SQL-Excel/blob/main/Screenshot%202025-02-04%20002505.png">Power BI 2</a>
+
+## 🔄 Project Process
+This data analysis project follows a structured process to ensure accurate insights and effective visualization.
+
+### Data Collection & Understanding
+- Gather raw datasets from various sources (Excel, databases, CSV, etc.).
+- Understand the data structure, types, and relationships.
+  
+### Data Cleaning & Preparation (SQL & Excel)
+- Handle missing values, duplicates, and inconsistencies.
+- Perform data transformation (normalization, aggregation, formatting).
+- Optimize dataset for analysis using SQL queries and Excel formulas.
+  
+### Exploratory Data Analysis (EDA) (SQL & Excel)
+- Perform statistical analysis and summary statistics.
+- Identify trends, outliers, and correlations in data.
+- Use pivot tables and SQL queries for deeper insights.
+  
+### Data Visualization & Dashboarding (Power BI & Tableau)
+- Create interactive dashboards with compelling charts and graphs.
+- Utilize filters, drill-downs, and dynamic visuals for better storytelling.
+- Compare insights across different dimensions and timeframes.
+  
+### Business Insights & Recommendations
+- Interpret key findings from dashboards and reports.
+- Provide data-driven recommendations to optimize business decisions.
+- Highlight potential improvements based on trends and patterns.
+  
+### Documentation & Sharing
+- Document SQL queries, transformation steps, and visualization methods.
+- Share reports via Power BI service, Tableau Public, or GitHub repository.
+- Ensure reusability and scalability for future analysis.
+  
+📌 Outcome: A well-structured analysis that transforms raw data into actionable insights, enhancing business decision-making. 🚀📊
