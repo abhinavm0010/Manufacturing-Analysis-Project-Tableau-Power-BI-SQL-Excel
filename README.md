@@ -21,4 +21,4 @@ The objective of this project is to analyze, visualize, and derive meaningful in
 
 - Business Insights & Recommendations: Interpreting data-driven findings to support strategic and operational decisions.
   
-- By integrating these tools, this project aims to transform raw data into actionable insights that drive informed business decisions. 🚀📊
+By integrating these tools, this project aims to transform raw data into actionable insights that drive informed business decisions. 🚀📊
