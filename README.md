@@ -28,8 +28,11 @@ By integrating these tools, this project aims to transform raw data into actiona
 
 ## Questions (KPIs)
 1. Union of Fact Internet sales and Fact internet sales new
+   
 2. Lookup the productname from the Product sheet to Sales sheet.
+   
 3. Lookup the Customerfullname from the Customer and Unit Price from Product sheet to Sales sheet.
+   
 4. Calcuate the following fields from the Orderdatekey field ( First Create a Date Field from Orderdatekey)
    - Year
    - Monthno
@@ -39,16 +42,28 @@ By integrating these tools, this project aims to transform raw data into actiona
    - Weekdayno
    - Weekdayname
    - FinancialMOnth
-   - Financial Quarter 
+   - Financial Quarter
+     
 5. Calculate the Sales amount uning the columns(unit price,order quantity,unit discount)
+   
 6. Calculate the Productioncost uning the columns(unit cost ,order quantity)
+   
 7. Calculate the profit.
+   
 8. Create a Pivot table for month and sales (provide the Year as filter to select a particular Year)
+   
 9. Create a Bar chart to show yearwise Sales
+    
 10. Create a Line Chart to show Monthwise sales
+    
 11. Create a Pie chart to show Quarterwise sales
+    
 12. Create a combinational chart (bar and Line) to show Salesamount and Productioncost together
+    
 13. Create a Dashboard
+    
 Dashboard Interaction in <a href="https://github.com/abhinavm0010/Manufacturing-Analysis-Project-Tableau-Power-BI-SQL-Excel/blob/main/Screenshot%202025-02-04%20002407.png"></a>
+
 Dashboard 1 Interaction in <a href="https://github.com/abhinavm0010/Manufacturing-Analysis-Project-Tableau-Power-BI-SQL-Excel/blob/main/Screenshot%202025-02-04%20002445.png"></a>
+
 Dashboard 2 Interaction in <a href="https://github.com/abhinavm0010/Manufacturing-Analysis-Project-Tableau-Power-BI-SQL-Excel/blob/main/Screenshot%202025-02-04%20002505.png"></a>
