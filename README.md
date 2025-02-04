@@ -49,3 +49,6 @@ By integrating these tools, this project aims to transform raw data into actiona
 11. Create a Pie chart to show Quarterwise sales
 12. Create a combinational chart (bar and Line) to show Salesamount and Productioncost together
 13. Create a Dashboard
+Dashboard Interaction in <a href="https://github.com/abhinavm0010/Manufacturing-Analysis-Project-Tableau-Power-BI-SQL-Excel/blob/main/Screenshot%202025-02-04%20002407.png"></a>
+Dashboard 1 Interaction in <a href="https://github.com/abhinavm0010/Manufacturing-Analysis-Project-Tableau-Power-BI-SQL-Excel/blob/main/Screenshot%202025-02-04%20002445.png"></a>
+Dashboard 2 Interaction in <a href="https://github.com/abhinavm0010/Manufacturing-Analysis-Project-Tableau-Power-BI-SQL-Excel/blob/main/Screenshot%202025-02-04%20002505.png"></a>
